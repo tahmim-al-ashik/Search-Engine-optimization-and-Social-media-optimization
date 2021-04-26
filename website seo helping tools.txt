@@ -1,0 +1,112 @@
+keyword research and analysis tools
+
+www.google.com/adwords/
+ubersuggest.org
+tools.seobook.com/keyword-tools/seobook/
+www.semrush.com
+www.spyfu.com
+www.longtailpro.com
+smallseotools.com/keywords-suggestions-tool/
+www.wordstream.com/long-tail-keywords
+www.longtailfinder.com
+answerthepublic.com
+
+search value volume :
+https://app.keywordkeg.com/
+seaarchvolume.io
+www.wordtracker.com
+https://ahrefs.com/keyword-generator
+wmseverywhere extension
+
+keyword difficulty:
+https://semscoop.com/
+
+
+keywordeverywhere alternatives:
+{seostack keyword tool 
+http://www.seostack.net/
+
+}long tail keyword suggestion
+
+
+
+
+extenstion :
+keywordeverywhere.com
+mozbar extnsion
+seoquake extention
+
+finding search value and suggested word:
+ubersuggest.io
+adwords.google.com
+quora.com
+
+longtailkeyword suggestion :
+answerthepubic.com
+
+
+lsi keyword(pharase word ):
+lsigraph.com
+www.thesaurus.com
+www.google.com/trends
+
+domain name suggestion
+namemesh.com
+
+competiotion analysis tag : 
+allintitle:
+intitle
+
+
+seo direction step by step:
+✅Step 1: Website Designing 
+✅Step 2: Business Analysis
+✅Step 3: Keyword Research
+✅Step 4: Competitor Research Analysis 
+{
+
+here from 1:25:00 to end  define how to find competitor
+https://www.youtube.com/watch?v=TNklSp1AckI&list=PLzB6sJOtUsVk36Wge10Bo-6JewA93EKNc&index=7
+https://www.youtube.com/watch?v=TNklSp1AckI&list=PLzB6sJOtUsVk36Wge10Bo-6JewA93EKNc&index=7
+
+folder 2 , video 11 , 40:00
+
+tools :netpeak checker , mozbar , seoquake , checkmoz.com (pa, da ),majestic.com (backlink)
+}
+
+
+✅Step 5: Basic On-Page Factors
+{meta tags ,
+Url optimization,
+heading tag optimization,
+content optimization,
+alt tag optimization ,
+image title and name optimization,
+footer optimization
+}
+
+✅Step 6: Advanced On-Page Factors
+{
+site map 
+canonical tag
+robot txt
+}
+✅Step 7: Website Speed Analysis
+{
+need fast speed
+website performance testing tools:
+pingdom
+google page insight
+gt metirx
+}
+✅Step 8: Google Search Console Installation
+✅Step 9: Backlink Analysis
+✅Step 10: Keyword Tracking Report
+{
+tools:
+serp
+search console
+}
+before completion :
+1st week:set every task for seo 
+2nd , 3rd , 4th week performance testing graph on base of search postion 

@@ -1,0 +1,27 @@
+﻿🔷 On-Page SEO Checklist:
+✔️Title Tag -- need for high traffic focus
+✔️Meta Tag -- need for high traffic focus
+✔️URL/Permalink --url heading 
+✔️Image Optimization -- image title optimaization / alt tag optimization
+✔️Content - develop content with lsi and long tail keyword
+✔️Internal & External Links -- llink building in page
+✔️Keyword Density -- should be less and focus word should be 1-3%
+✔️Keyword Prominence -- bold tag , mark tag , character type 
+✔️Heading Tag -- (h1) - (h6) obviously main focused keyword 
+✔️Readability -- dont do grammar mistake
+
+
+🔷 Google Bot or Crawler:
+✔️Robots.txt
+✔️Sitemap
+✔️Schema Markup
+
+****we can request google to index our site in search engine after going google search console
+
+🔷 UX- User Experience:
+✔️ Responsive Mobile Design
+✔️Web Content Accessibility Guideline (WCAG)
+✔️Clear CTA (Call to Action)
+✔️Multimieda
+✔️Page Speed
+✔️Social Share
